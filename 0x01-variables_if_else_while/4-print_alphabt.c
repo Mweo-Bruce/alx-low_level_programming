@@ -15,7 +15,7 @@ int main(void)
 
 	for (i = 0; i < 26; i++)
 	{
-		if (alphabet[i] == 'a' || alphabet[i] == 'q')
+		if (alphabet[i] == 'e' || alphabet[i] == 'q')
 			continue;
 		else
 			putchar(alphabet[i]);
