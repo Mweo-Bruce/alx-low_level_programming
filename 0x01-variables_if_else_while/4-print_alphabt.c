@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
+
 /**
  * main - Prints the alphabet except q and e
  *
@@ -17,8 +18,6 @@ int main(void)
 		else
 			putchar(alphabet[i]);
 	}
-	
-	putchar("\n");
-				
+	putchar('\n');		
 	return (0);
 }
