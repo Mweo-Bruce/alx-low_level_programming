@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
+
 /**
  * main - Prints the alphabet in lowercase and then in uppercase
  *
@@ -10,10 +11,10 @@ int main(void)
 {
 	char alphabet[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	
-	for (int i = 0; i < 52; i++)
-		putchar(alphabet[i];
-	
-	putchar("\n");
-				
+	int i = 0
+
+	for (i = 0; i < 52; i++)
+		putchar(alphabet[i]);
+	putchar('\n');			
 	return (0);
 }
