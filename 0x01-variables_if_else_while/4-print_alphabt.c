@@ -4,7 +4,7 @@
 /**
  * main - Prints the alphabet except q and e
  *
- * Return - Always 0 (Success)
+ * Return: Always 0 (Success)
  *
  */
 int main(void)
