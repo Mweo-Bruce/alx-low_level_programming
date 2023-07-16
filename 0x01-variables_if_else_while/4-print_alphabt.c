@@ -1,11 +1,9 @@
-#include <stdlib.h>
 #include <stdio.h>
 
 /**
  * main - Prints the alphabet except q and e
  *
  * Return: Always 0 (Success)
- *
  */
 int main(void)
 {
