@@ -1,7 +1,6 @@
 #include "main.h"
 
 /**
- * print_sign - prints the sign of a numver
  *
  * @n: the int to check
  *
