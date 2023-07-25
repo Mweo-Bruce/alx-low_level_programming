@@ -2,8 +2,8 @@
 
 /**
  * reset_to_98 - changes value of variables address using a pointer to 98
- * @n: input
- * Return: n
+ * @n: pointer to value to be changed
+ * Return: void
  */
 void reset_to_98(int *n)
 {
